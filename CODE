@@ -1,4 +1,7 @@
 
+/*C Program For Mobile Store Management System using Double Linked List*/
+
+
 
 #include<stdio.h>
 #include<stdlib.h>
